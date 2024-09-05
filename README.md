@@ -25,7 +25,7 @@ Welcome to the **Random Word Guessing Game**! This Python program will test your
 
 ## How to Run
 1. Copy the code to your local machine.
-2. Run the Python file:
+2. Run the Python file
 3. Follow the on-screen instructions to play the game.
 
 ## Future Improvements
