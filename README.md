@@ -1,4 +1,3 @@
-"""
 # Random Word Guessing Game
 Welcome to the **Random Word Guessing Game**! This Python program will test your vocabulary and guessing skills by giving you a random word with missing letters. You'll need to guess the word correctly before running out of lives.
 
