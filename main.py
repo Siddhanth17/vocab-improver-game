@@ -28,7 +28,7 @@ try :
             print("HURRAY!!! YOU WON!!!!!")
             break
         else:
-            print("TRY AGAIN :(")
+            print("PLEASE TRY AGAIN :(")
     if str!=word:
         print(f"ALL LIVES ARE OVER :( THE WORD WAS {word.upper()}")
 
